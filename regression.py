@@ -1,4 +1,4 @@
-# ala.py
+# regression.py
 import input_data
 import tensorflow as tf
 import model
