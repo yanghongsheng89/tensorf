@@ -1,4 +1,4 @@
-# cc.py
+# app.py
 import tensorflow as tf
 import model
 import os
